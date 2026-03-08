@@ -1,9 +1,9 @@
 # Hi Joanna Jurkowska 👋 
 
-💻 Software Engineering Graduate at Lublin University of Technology
-🎓 MSc student in Computer Science at Lublin University of Technology
-🌍 Based in Poland
-🚀 Interested in Mobile Development, Web Applications and Cybersecurity 
+- 💻 Software Engineering Graduate at Lublin University of Technology
+- 🎓 MSc student in Computer Science at Lublin University of Technology
+- 🌍 Based in Poland
+- 🚀 Interested in Mobile Development, Web Applications and Cybersecurity 
 
 ___
 
