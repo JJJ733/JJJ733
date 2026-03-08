@@ -12,6 +12,10 @@ ___
 Creative and innovative software engineer focused on continuous learning and improving technical skills. 
 I enjoy solving complex problems, building useful applications and exploring new technologies. 
 
+### 🌟 Interests
+- ✈️ **Travel** – exploring new cultures and destinations
+- 📸 **Photography** - capturing moments through creative composition
+
 ---
 
 ## 🎓 Education
